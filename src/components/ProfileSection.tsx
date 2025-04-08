@@ -11,39 +11,39 @@ const ProfileSection = () => {
       <div className="space-y-4">
         <div className="flex items-center gap-4">
           <Phone size={24} className="text-blue-500" />
-          <a href="tel:0375727245" className="text-blue-600 hover:underline">
-            0375727245
+          <a href="tel:0898498720" className="text-blue-600 hover:underline">
+            0898498720
           </a>
         </div>
         <div className="flex items-center gap-4">
           <Mail size={24} className="text-blue-500" />
           <a
-            href="mailto:minhquanpm1610@gmail.com"
+            href="mailto:yunct1234@gmail.com"
             className="text-blue-600 hover:underline"
           >
-            minhquanpm1610@gmail.com
+            yunct1234@gmail.com
           </a>
         </div>
         <div className="flex items-center gap-4">
           <Facebook size={24} className="text-blue-500" />
           <a
-            href="https://www.facebook.com/minhqquan.pham"
+            href="https://www.facebook.com/ducanh.trinh.9619/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-600 hover:underline"
           >
-            Minh Quân
+            Trinh Duc Anh
           </a>
         </div>
         <div className="flex items-center gap-4">
           <Github size={24} className="text-blue-500" />
           <a
-            href="https://github.com/MuonNghiCode"
+            href="https://github.com/YunCt123"
             target="_blank"
             rel="noopener noreferrer"
             className="text-blue-600 hover:underline"
           >
-            MuonNghiCode
+            YunCt123
           </a>
         </div>
       </div>

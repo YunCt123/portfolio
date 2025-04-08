@@ -1,27 +1,26 @@
 const ExperienceSection = () => {
   return (
     <section>
-      <h2 className="text-3xl font-semibold text-blue-700 mb-6">Experience</h2>
-      <div className="mb-6">
-        <h3 className="font-bold text-xl">Front-End Developer Intern</h3>
-        <p className="text-sm text-gray-600">
+      <h2 className="text-2xl font-bold text-gray-900 mb-4">Experience</h2>
+      <div>
+        <h3 className="text-lg font-semibold text-gray-800">
+          Front-End Developer Intern
+        </h3>
+        <p className="text-sm text-gray-500 mt-1 mb-3">
           FPT Software | Jan 2025 - Mar 2025
         </p>
-        <ul className="list-disc pl-5 mt-4 text-base text-gray-700 space-y-3">
-          <li>
-            Collaborated with a team to develop responsive web applications
-            using React.js and TypeScript.
+        <ul className="space-y-2">
+          <li className="text-gray-600">
+            • Collaborated with a team to develop responsive web applications using React.js and TypeScript
           </li>
-          <li>
-            Optimized UI components for better performance and accessibility.
+          <li className="text-gray-600">
+            • Optimized UI components for better performance and accessibility
           </li>
-          <li>
-            Gained hands-on experience with Agile methodologies and version
-            control systems like Git.
+          <li className="text-gray-600">
+            • Gained hands-on experience with Agile methodologies and version control systems like Git
           </li>
-          <li>
-            Contributed to debugging and resolving front-end issues in live
-            projects.
+          <li className="text-gray-600">
+            • Contributed to debugging and resolving front-end issues in live projects
           </li>
         </ul>
       </div>
